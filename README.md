@@ -1,5 +1,5 @@
-# OLED_Project
-# 这个项目提供对于SSD1306 I2C传输的OLED屏幕的操作函数
+# OLED
+## 这个项目提供对于SSD1306 I2C传输的OLED屏幕的操作函数
 font.h  标准字库文件（每一行代表一个字符）
 OLED_Display.h  头文件宏定义
 OLED_Display.c  实现每个具体函数
